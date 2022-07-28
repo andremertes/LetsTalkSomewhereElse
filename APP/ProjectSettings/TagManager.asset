@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Yes
+  - tag1
+  - table
+  - sofa
+  - ObjectTag
+  - chair1
+  - sofa1
+  - table1
+  - rack1
+  - lamp1
+  - tag2
+  - tag3
+  - tag4
+  - tag5
+  - tag6
+  - tag7
+  - tag8
+  - tag9
+  - tag10
+  - tag11
+  - tag12
+  - tag13
+  - tag14
+  - tag15
+  - No
+  - tag16
+  - tag17
+  - tag18
+  - tag19
+  - tag20
+  - tag30
+  - tag21
+  - tag22
+  - tag23
+  - tag24
+  - tag25
+  - tag26
+  - tag27
+  - tag28
+  - tag29
+  - tag0
+  - chair2
+  - sofa2
+  - table2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
