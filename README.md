@@ -4,6 +4,7 @@ Letting clients design virtual therapy spaces
 
 ## System requirements
 tested on PC with i5-11400H, 16GB DDR4 RAM, RTX 3060
+
 Unity 2022.1.8, SteamVR 1.23.6, Oculus Quest 2 HMD
 
 ## Features
